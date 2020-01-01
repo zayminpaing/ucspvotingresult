@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="planets_array">
+    <item>King</item>
+    <item>Style Boy</item>
+    <item>Innocent Boy</item>
+    <item>Queen</item>
+    <item>Style Girl</item>
+    <item>Innocent Girl</item>
+</string-array>
+</resources>
